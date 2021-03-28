@@ -1,0 +1,5 @@
+char a[]="xyz",b[]={'x','y','z'};
+if(strlen(a)>strlen(b))
+printf("a>b\n");
+else
+printf("a<=b\n");
